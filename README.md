@@ -6,11 +6,11 @@ Falta fazer:
   - colocar uma textura para cada obj da cena
 
 -----------------------------------------------------------------------------
-Por enquanto só copiei a aula de texturas pra usar de base.
+Por enquanto só copiei a aula de texturas pra usar de base, testei malhas(obj) e texturas (jpg)
 
-Já foram testados os Modelos e Texturass: 
+Já foram testados os Modelos e Texturas: 
   - lua
-  - foguete
+  - foguete (o modelo vem inclinado, se tiver outro melhor seria bom)
   - 
 
 -----------------------------------------------------------------------------

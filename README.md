@@ -12,11 +12,16 @@ Finalizado:
 
 -----------------------------------------------------------------------------
 
-Por enquanto só copiei a aula de texturas pra usar de base, testei malhas(obj) e texturas (jpg)
-
 Já foram testados os Modelos e Texturas: 
   - lua
   - foguete (o modelo vem inclinado, se tiver um modelo melhor seria bom)
+
+-----------------------------------------------------------------------------
+
+Pensei em usar os modelos de:
+
+  - sol
+  - terra
   - 
 
 -----------------------------------------------------------------------------
